@@ -1,4 +1,6 @@
-var NewComponent = React.createClass({
+import React from 'react'
+
+var resume = React.Component({
   render: function () {
     return (
 
@@ -59,8 +61,6 @@ var NewComponent = React.createClass({
           </div>
         </div>
 
-
-
         <div className="row skill">
           <div className="three columns header-col">
             <h1><span>Skills</span></h1>
@@ -84,3 +84,5 @@ var NewComponent = React.createClass({
     );
   }
 });
+
+export default resume;

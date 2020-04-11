@@ -1,4 +1,6 @@
-var NewComponent = React.createClass({
+import React from 'react'
+
+var header = React.Component({
     render: function() {
       return (
   
@@ -12,8 +14,8 @@ var NewComponent = React.createClass({
               <li><a className="smoothscroll" href="#resume">Resume</a></li>
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
               <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            </ul> {/* end #nav */}
-          </nav> {/* end #nav-wrap */}
+            </ul> 
+          </nav> 
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline">June Brown.</h1>
@@ -39,3 +41,6 @@ var NewComponent = React.createClass({
       );
     }
   });
+
+  export default header;
+

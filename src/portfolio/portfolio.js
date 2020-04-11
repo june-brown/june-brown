@@ -1,4 +1,6 @@
-var NewComponent = React.createClass({
+import React from 'react'
+
+var portfolio = React.Component({
     render: function() {
       return (
   
@@ -225,3 +227,5 @@ var NewComponent = React.createClass({
       );
     }
   });
+
+  export default portfolio;
