@@ -18,7 +18,7 @@ var footer = React.Component({
               </ul>
               <ul className="copyright">
                 <li>© Copyright</li>
-                <li>Design by <a title="" href="">Styleshout</a></li>   
+                <li>Design by <a title="" href=""></a></li>   
               </ul>
             </div>
             <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
@@ -27,8 +27,6 @@ var footer = React.Component({
       );
     }
   });
-<<<<<<< HEAD
+
 
   export default footer;
-=======
->>>>>>> aa3b1a43bb7cc84817ffc690ddab275c0b2bca5e
