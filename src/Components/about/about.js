@@ -18,7 +18,7 @@ export default class Header extends Component {
 
                 I am former professional game master and steampunk. I love painting, knitting, and supporting the local arts community. I am a mom of two boys and enjoy chronicling their misadventures through childhood and cosplay in my blog Curious Life of Hobbits.
 
-                I am also a published Occult/Paranormal Author, my current book available in the U.S. and E.U. – Turning the Table: A Look at the Victorian Supernatural Obsession[available on Amazon].I have lectured on Victorian Paranormal at conventions and conferences across the U.S.
+                I am also a published Occult/Paranormal Author, my current book available in the U.S. and E.U. – Turning the Table: A Look at the Victorian Supernatural Obsession [available on Amazon].I have lectured on Victorian Paranormal at conventions and conferences across the U.S.
 
                 I am also a voice actor lending my voice to bring Rhayne’s Co A.I. to life in the web series Tales of a Broken Reality. One of my hobbies is taking the stage at local open mics as a stand-up comedian.
      </p>
