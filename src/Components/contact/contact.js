@@ -10,9 +10,7 @@ export default class Header extends Component {
             <h1><span>Get In Touch.</span></h1>
           </div>
           <div className="ten columns">
-            <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-              voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            <p className="lead">Open to new opportunties - Freelance, Contract, or Full Time. 
             </p>
           </div>
         </div>
@@ -23,15 +21,15 @@ export default class Header extends Component {
               <fieldset>
                 <div>
                   <label htmlFor="contactName">Name <span className="required">*</span></label>
-                  <input type="text" defaultValue size={35} id="contactName" name="contactName" />
+                  <input type="text" defaultValue={""} size={35} id="contactName" name="contactName" />
                 </div>
                 <div>
                   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-                  <input type="text" defaultValue size={35} id="contactEmail" name="contactEmail" />
+                  <input type="text" defaultValue={""} size={35} id="contactEmail" name="contactEmail" />
                 </div>
                 <div>
                   <label htmlFor="contactSubject">Subject</label>
-                  <input type="text" defaultValue size={35} id="contactSubject" name="contactSubject" />
+                  <input type="text" defaultValue={""} size={35} id="contactSubject" name="contactSubject" />
                 </div>
                 <div>
                   <label htmlFor="contactMessage">Message <span className="required">*</span></label>

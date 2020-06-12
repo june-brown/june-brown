@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import Header from './header/header'
-import About from './about/about';
-import Resume from './resume/resume';
-import Portfolio from './portfolio/portfolio';
-import Testimonials from  './testimonials/testimonials';
-import Footer from './footer/footer';
-
+import ReactDOM from 'react-dom';
+import Header from './Components/header/header';
+import About from './Components/about/about';
+import Resume from './Components/resume/resume';
+import Portfolio from './Components/portfolio/portfolio';
+import References from './Components/references/references';
+import Contact from './Components/contact/contact';
+import Footer from './Components/footer/footer';
 class App extends Component {
   render() {
     return (
@@ -14,7 +15,8 @@ class App extends Component {
         <About />
         <Resume />
         <Portfolio />
-        <Testimonials />
+        <References />
+        <Contact />
         <Footer />
       </div>
     );

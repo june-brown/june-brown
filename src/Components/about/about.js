@@ -12,7 +12,9 @@ export default class Header extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
-                June Brown is a Front End Developer, freelance Technical and Article Writer based in Oklahoma City. As a developer her primary focus is JavaScript, React, HTML, and CSS with a continued drive to learn new frameworks and languages. She is currently available for hire.
+                June Brown is a Front End Developer, technical writer, and artist based in Oklahoma City. As a developer her primary focus is JavaScript, React, HTML, and CSS with a continued drive to learn new frameworks and languages. She is currently available for hire.
+              </p>
+              <p>
 
                 She is a former professional game master and steampunk. She loves painting, knitting, and supporting her local arts community. She is mom of two boys, chronicling their misadventures through childhood and cosplay in her blog Curious Life of Hobbits.
 
@@ -20,6 +22,7 @@ export default class Header extends Component {
 
                 She is a voice actor lending her voice to bring Rhayne’s Co A.I. to life in the web series Tales of a Broken Reality. She loves taking the stage at local open mics as a stand-up comedian.
      </p>
+     <br />
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -29,7 +32,6 @@ export default class Header extends Component {
              Oklahoma City, OK 73106 US
            </span><br />
                     <span>405.549.9952</span><br />
-                    <span>https://junebrown.journoportfolio.com/</span>
                   </p>
                 </div>
                 <div className="columns download">
