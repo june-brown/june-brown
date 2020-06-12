@@ -12,15 +12,15 @@ export default class Header extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
-                June Brown is a Front End Developer, technical writer, and artist based in Oklahoma City. As a developer her primary focus is JavaScript, React, HTML, and CSS with a continued drive to learn new frameworks and languages. She is currently available for hire.
+                I am a Front End Developer, technical writer, and artist based in Oklahoma City. As a developer my primary focus is JavaScript, React, HTML, and CSS with a continued drive to learn new frameworks and languages. I am currently available for hire.
               </p>
               <p>
 
-                She is a former professional game master and steampunk. She loves painting, knitting, and supporting her local arts community. She is mom of two boys, chronicling their misadventures through childhood and cosplay in her blog Curious Life of Hobbits.
+                I am former professional game master and steampunk. I love painting, knitting, and supporting the local arts community. I am a mom of two boys and enjoy chronicling their misadventures through childhood and cosplay in my blog Curious Life of Hobbits.
 
-                June is also a published Occult/Paranormal Author, her current book available in the U.S. and E.U. – Turning the Table: A Look at the Victorian Supernatural Obsession[available on Amazon].She has lectured on Victorian Paranormal at conventions and conferences across the U.S.
+                I am also a published Occult/Paranormal Author, my current book available in the U.S. and E.U. – Turning the Table: A Look at the Victorian Supernatural Obsession[available on Amazon].I have lectured on Victorian Paranormal at conventions and conferences across the U.S.
 
-                She is a voice actor lending her voice to bring Rhayne’s Co A.I. to life in the web series Tales of a Broken Reality. She loves taking the stage at local open mics as a stand-up comedian.
+                I am also a voice actor lending my voice to bring Rhayne’s Co A.I. to life in the web series Tales of a Broken Reality. One of my hobbies is taking the stage at local open mics as a stand-up comedian.
      </p>
      <br />
               <div className="row">
