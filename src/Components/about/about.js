@@ -36,18 +36,7 @@ export default class Header extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                  import Pdf from "src/Components/resume/june-brown-resume.pdf";
-                    onResumeClick() {
-                    window.open(Pdf);
-                   }
-
-                  render() { 
-                  return (
-                    <a onClick={this.onResumeClick}>
-                  Resume
-                  </a>
-                   )}
-                    <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                    <a href="src/Components/resume/june-brown-resume.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                   </p>
                 </div>
               </div> {/* end row */}
