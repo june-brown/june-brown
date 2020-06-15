@@ -34,11 +34,11 @@ export default class Header extends Component {
                     <span>405.549.9952</span><br />
                   </p>
                 </div>
-               /* <div className="columns download">
+               <div className="columns download">
                   <p>
                     <a href="https://bit.ly/3e7VTg4" className="button"><i className="fa fa-download" />Download Resume</a>
                   </p>
-                </div> */
+                </div> 
               </div> {/* end row */}
             </div> {/* end .main-col */}
           </div>
